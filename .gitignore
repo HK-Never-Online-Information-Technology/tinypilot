@@ -75,3 +75,5 @@ package-lock.json
 
 # Debian package builds
 debian-pkg/releases/
+
+.idea/*
