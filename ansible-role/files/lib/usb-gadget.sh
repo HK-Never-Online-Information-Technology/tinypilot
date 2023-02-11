@@ -9,7 +9,7 @@ export readonly USB_DEVICE_PATH="${USB_GADGET_PATH}/${USB_DEVICE_DIR}"
 
 export readonly USB_STRINGS_DIR="strings/0x409"
 export readonly USB_KEYBOARD_FUNCTIONS_DIR="functions/hid.keyboard"
-export readonly USB_MOUSE_FUNCTIONS_DIR="functions/hid.mouse"
+export readonly USB_SYS_CONTROL_FUNCTIONS_DIR="functions/hid.sys_control"
 export readonly USB_MASS_STORAGE_NAME="mass_storage.0"
 export readonly USB_MASS_STORAGE_FUNCTIONS_DIR="functions/${USB_MASS_STORAGE_NAME}"
 
